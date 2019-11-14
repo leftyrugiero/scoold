@@ -6,7 +6,8 @@
  /____/\___/\____/\____/_/\__,_/  .com
 
 -->
-<html lang="$!currentLocale.language" dir="$!langDirection">
+<!--html lang="$!currentLocale.language" dir="$!langDirection"-->
+<html lang="en" dir="LTR">
 	<head>
 		<title>$!APPNAME | $!title</title>
 		<meta charset="utf-8">
@@ -282,9 +283,9 @@
 									<a href="https://erudika.com"><b>Erudika</b></a>
 								#end
 							</div>
-							<a href="$!languageslink" title="Switch to a different language" class="btn-flat grey capitalize">
+							<!--a href="$!languageslink" title="Switch to a different language" class="btn-flat grey capitalize">
 								$!currentLocale.getDisplayLanguage($currentLocale)
-							</a>
+							</a-->
 						</div>
 					</div>
 				</div>
