@@ -183,7 +183,7 @@
 
 							<ul class="sidenav" id="mobile-drawer">
 								<li>
-									<nav class="light-blue z-depth-0">
+									<nav class="blue-grey z-depth-0">
 										<div class="nav-wrapper">
 											<form action="$searchlink">
 												<div class="input-field">
