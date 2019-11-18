@@ -263,16 +263,26 @@
 				<div class="container">
 					<div class="row mbn">
 						<div class="col l6 s12 sTextCenter">
-							<h5 class="white-text">
+							<h6 class="white-text"><strong>SecuTix community</strong>
 								#if($showBranding)
 									Powered by <a href="https://paraio.com">
 										<img src="$imageslink/paradark.svg" width="100" alt="Para logo" class="para-logo-footer"></a>
 								#end
-							</h5>
+							</h6>
 							<div class="pvl">
-								<a href="$aboutlink" title="About">$!{lang.get('about.title')}</a>&nbsp;&nbsp;
-								<a href="$feedbacklink" title="Feedback">$!{lang.get('feedback.title')}</a>&nbsp;&nbsp;
-								<a href="$privacylink" title="Privacy">$!{lang.get('privacy.title')}</a>&nbsp;&nbsp;
+								<a href="$aboutlink" title="About">$!{lang.get('about.title')}</a>&nbsp;&nbsp;</br>
+								<a href="$feedbacklink" title="Feedback">$!{lang.get('feedback.title')}</a>&nbsp;&nbsp;</br>
+								<a href="$privacylink" title="Privacy">$!{lang.get('privacy.title')}</a>&nbsp;&nbsp;</br>
+								<a href="$termslink" title="Terms">$!{lang.get('terms.title')}</a>
+							</div>
+						</div>
+						<div class="col l6 s12 sTextCenter">
+							<h6 class="white-text"><strong>Product</strong>
+							</h6>
+							<div class="pvl">
+								<a href="https://confluence.secutix.com/display/RN/" title="What's new">$!{lang.get('whatsnew.title')}</a>&nbsp;&nbsp;</br>
+								<a href="$feedbacklink" title="Feedback">$!{lang.get('feedback.title')}</a>&nbsp;&nbsp;</br>
+								<a href="$privacylink" title="Privacy">$!{lang.get('privacy.title')}</a>&nbsp;&nbsp;</br>
 								<a href="$termslink" title="Terms">$!{lang.get('terms.title')}</a>
 							</div>
 						</div>
