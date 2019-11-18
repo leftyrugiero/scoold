@@ -281,9 +281,9 @@
 							</h6>
 							<div class="pvl">
 								<a href="https://confluence.secutix.com/display/RN/" title="What's new">$!{lang.get('whatsnew.title')}</a>&nbsp;&nbsp;</br>
-								<a href="$feedbacklink" title="Feedback">$!{lang.get('feedback.title')}</a>&nbsp;&nbsp;</br>
-								<a href="$privacylink" title="Privacy">$!{lang.get('privacy.title')}</a>&nbsp;&nbsp;</br>
-								<a href="$termslink" title="Terms">$!{lang.get('terms.title')}</a>
+								<a href="https://confluence.secutix.com/display/RN/Installation+calendar" title="Release planning">$!{lang.get('releaseplanning.title')}</a>&nbsp;&nbsp;</br>
+								<a href="#" title="Customer service">$!{lang.get('customerservice.title')}</a>&nbsp;&nbsp;</br>
+								<a href="https://www.secutix.com/" title="Secutix.com">$!{lang.get('secutixcom.title')}</a>
 							</div>
 						</div>
 						<div class="col l6 s12 sTextCenter ${footerAlignClass}">
