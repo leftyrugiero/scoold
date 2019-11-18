@@ -6,7 +6,7 @@
  /____/\___/\____/\____/_/\__,_/  .com
 
 -->
-<!--html lang="$!currentLocale.language" dir="$!langDirection"-->
+
 <html lang="en" dir="LTR">
 	<head>
 		<title>$!APPNAME | $!title</title>
