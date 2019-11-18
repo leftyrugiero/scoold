@@ -6,7 +6,7 @@
  /____/\___/\____/\____/_/\__,_/  .com
 
 -->
-
+<!--html lang="$!currentLocale.language" dir="$!langDirection"-->
 <html lang="en" dir="LTR">
 	<head>
 		<title>$!APPNAME | $!title</title>
@@ -270,9 +270,9 @@
 								#end
 							</h6>
 							<div class="pvl">
-								<a href="$aboutlink" title="About">$!{lang.get('about.title')}</a>&nbsp;&nbsp;</br>
-								<a href="$feedbacklink" title="Feedback">$!{lang.get('feedback.title')}</a>&nbsp;&nbsp;</br>
-								<a href="$privacylink" title="Privacy">$!{lang.get('privacy.title')}</a>&nbsp;&nbsp;</br>
+								<a href="$aboutlink" title="About">$!{lang.get('about.title')}</a>&nbsp;&nbsp;<br>
+								<a href="$feedbacklink" title="Feedback">$!{lang.get('feedback.title')}</a>&nbsp;&nbsp;<br>
+								<a href="$privacylink" title="Privacy">$!{lang.get('privacy.title')}</a>&nbsp;&nbsp;<br>
 								<a href="$termslink" title="Terms">$!{lang.get('terms.title')}</a>
 							</div>
 						</div>
@@ -280,9 +280,9 @@
 							<h6 class="white-text"><strong>PRODUCT</strong>
 							</h6>
 							<div class="pvl">
-								<a href="https://confluence.secutix.com/display/RN/" title="What's new">$!{lang.get('whatsnew.title')}</a>&nbsp;&nbsp;</br>
-								<a href="https://confluence.secutix.com/display/RN/Installation+calendar" title="Release planning">$!{lang.get('releaseplanning.title')}</a>&nbsp;&nbsp;</br>
-								<a href="#" title="Customer service">$!{lang.get('customerservice.title')}</a>&nbsp;&nbsp;</br>
+								<a href="https://confluence.secutix.com/display/RN/" title="What's new">$!{lang.get('whatsnew.title')}</a>&nbsp;&nbsp;<br>
+								<a href="https://confluence.secutix.com/display/RN/Installation+calendar" title="Release planning">$!{lang.get('releaseplanning.title')}</a>&nbsp;&nbsp;<br>
+								<a href="#" title="Customer service">$!{lang.get('customerservice.title')}</a>&nbsp;&nbsp;<br>
 								<a href="https://www.secutix.com/" title="Secutix.com">$!{lang.get('secutixcom.title')}</a>
 							</div>
 						</div>
