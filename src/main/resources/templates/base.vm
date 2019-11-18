@@ -263,7 +263,7 @@
 				<div class="container">
 					<div class="row mbn">
 						<div class="col l6 s12 sTextCenter">
-							<h6 class="white-text"><strong>SecuTix community</strong>
+							<h6 class="white-text"><strong>SECUTIX COMMUNITY</strong>
 								#if($showBranding)
 									Powered by <a href="https://paraio.com">
 										<img src="$imageslink/paradark.svg" width="100" alt="Para logo" class="para-logo-footer"></a>
@@ -277,7 +277,7 @@
 							</div>
 						</div>
 						<div class="col l6 s12 sTextCenter">
-							<h6 class="white-text"><strong>Product</strong>
+							<h6 class="white-text"><strong>PRODUCT</strong>
 							</h6>
 							<div class="pvl">
 								<a href="https://confluence.secutix.com/display/RN/" title="What's new">$!{lang.get('whatsnew.title')}</a>&nbsp;&nbsp;</br>
