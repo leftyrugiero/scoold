@@ -282,7 +282,7 @@
 							<div class="pvl">
 								<a href="https://confluence.secutix.com/display/RN/" title="What's new">$!{lang.get('whatsnew.title')}</a>&nbsp;&nbsp;<br>
 								<a href="https://confluence.secutix.com/display/RN/Installation+calendar" title="Release planning">$!{lang.get('releaseplanning.title')}</a>&nbsp;&nbsp;<br>
-								<a href="#" title="Customer service">$!{lang.get('customerservice.title')}</a>&nbsp;&nbsp;<br>
+								<a href="https://customerportal.secutix.com/" title="Customer service">$!{lang.get('customerservice.title')}</a>&nbsp;&nbsp;<br>
 								<a href="https://www.secutix.com/" title="Secutix.com">$!{lang.get('secutixcom.title')}</a>
 							</div>
 						</div>
